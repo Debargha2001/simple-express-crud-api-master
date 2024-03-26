@@ -27,6 +27,9 @@ const options = {
       {
         url: "http://localhost:3000",
       },
+      {
+        url: "http://13.201.61.94:3000"
+      }
     ],
   },
   apis: ["./routes/*.js"],
